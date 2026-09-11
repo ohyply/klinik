@@ -5,10 +5,10 @@ import webbrowser
 import streamlit as st
 
 st.set_page_config(
-    page_title="Khavla - Akıllı Klinik Asistanı", page_icon="🦷", layout="wide"
+    page_title="SepaDent - Akıllı Klinik Asistanı", page_icon="🦷", layout="wide"
 )
 
-st.title("🦷 Khavla - Klinik Operasyon ve Asistan Paneli")
+st.title("🦷 SepaDent - Klinik Operasyon ve Asistan Paneli")
 st.markdown(
     "Günlük iş yükünü sıfırlayan, tam entegre akıllı klinik yönetim sistemi."
 )
